@@ -1,1 +1,26 @@
 # NaanMudhalvan_Swathi051_7139_SRIET
+Project created by
+
+NAME: SWATHI.K
+
+NAANMUDHALVAN ID:au713921104051
+
+REGISTER NUMBER:713921104051
+
+COLLEGE CODE:7139
+
+COLLEGE NAME:SRI RANGANATHAR INSTITUTE OF ENGINEERING AND TECHNOLOGY
+
+LOGIN DETAILS
+
+USERNAME: swathi
+
+PASSWORD: Swathi@2003
+
+MAILID: swaathikrishna2003@gmail.com
+
+PROJECT RUNNING STEPS
+
+python manage.py runserver
+
+python manage.py createsuperuser
